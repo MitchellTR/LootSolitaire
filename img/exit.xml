@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ab674cf99505c9f2903b1468ffcc1684:165baaff2f1acb5ea84c6a7a25ed3809:3d5316e9bbae2ff019b6213054ead077$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="exit.png" width="104" height="1181">
+    <sprite n="exit00.png" x="2" y="2" w="100" h="129" pX="0.5" pY="0.5"/>
+    <sprite n="exit01.png" x="2" y="133" w="100" h="129" pX="0.5" pY="0.5"/>
+    <sprite n="exit02.png" x="2" y="264" w="100" h="129" pX="0.5" pY="0.5"/>
+    <sprite n="exit03.png" x="2" y="264" w="100" h="129" pX="0.5" pY="0.5"/>
+    <sprite n="exit04.png" x="2" y="395" w="100" h="129" pX="0.5" pY="0.5"/>
+    <sprite n="exit05.png" x="2" y="526" w="100" h="129" pX="0.5" pY="0.5"/>
+    <sprite n="exit06.png" x="2" y="657" w="100" h="129" pX="0.5" pY="0.5"/>
+    <sprite n="exit07.png" x="2" y="788" w="100" h="129" pX="0.5" pY="0.5"/>
+    <sprite n="exit08.png" x="2" y="919" w="100" h="129" pX="0.5" pY="0.5"/>
+    <sprite n="exit09.png" x="2" y="1050" w="100" h="129" pX="0.5" pY="0.5"/>
+</TextureAtlas>

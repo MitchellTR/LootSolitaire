@@ -1,0 +1,15 @@
+body{
+    margin:0px;
+    height:100%;
+    aligh:center;
+    vertical-align:middle;
+    background-color:black;
+}
+
+#game{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0px;
+    width:800px;
+    height:600px;
+}
